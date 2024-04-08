@@ -10,7 +10,8 @@
 
 2.) cd and adding a new branch
 
-![cd and new branch](https://github.com/EmilyGorial1/110-Lab-1/assets/146862114/e1d467e9-eaeb-417d-ab65-4ef68bf10c31)
+![git checkout again](https://github.com/EmilyGorial1/110-Lab-1/assets/146862114/4bbfde00-6c86-4506-b4cf-f4b2929e4b23)
+
 
 3.) Editing text
 
