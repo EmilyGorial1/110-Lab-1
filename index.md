@@ -48,6 +48,19 @@
 -[x] use relative links
 -[x] use headings
 
+**[Here](https://github.com/EmilyGorial1) is my github profile link!**
+
+> In order to get quoted code in github, you must wrap the text in single back ticks, like I have done:
+ 'here'
+> To format a chunk of code into it's own block, you can wrap the code in triple back ticks, like I have done here:
+```
+git add -a
+git commit
+git push
+
+```
+
+
 
 
 
