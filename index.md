@@ -37,7 +37,7 @@
 ![staged commit](https://github.com/EmilyGorial1/110-Lab-1/assets/146862114/b4accab5-44ad-4e51-a4c3-7a735c50dc51)
 
 
-**Click (here)[README.md] to see my README file!** 
+**Click [here](README.md) to see my README file!** 
 
 
 **My current task list**
