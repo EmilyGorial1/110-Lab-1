@@ -47,7 +47,7 @@
 **Click [here](README.md) to see my README file!** 
 
 
-**My current task list**
+## My current task list
 
 - [ ] use section links
 - [ ] use external links
