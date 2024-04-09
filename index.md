@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Command line arguments](#command-line)
 - [Using VS Code](#vs-code-ui)
+- [My To-Do list](#my-current-task-list)
 
 
 ## Command Line
